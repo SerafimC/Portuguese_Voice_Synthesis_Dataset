@@ -22,3 +22,7 @@ Neste repositório você encontratá um Corpus (Dataset) de voz com múltiplos l
 As sentenças lidas pelos voluntários garatem um balanço fonético para o Português brasileiro, retiradas da dissertação de mestrado: Estudo Estatístico Dos Fonemas Do Português Falado Na Capital de Santa Catarina Para Elaboração de Frases Foneticamente Balanceadas.
 
 ------------
+
+Além das amostras de áudio, também coletou-se dados sobre características físicas de cada participante para futuros trabalhos que busquem correlacionar a identidade de voz com características físicas.
+
+
